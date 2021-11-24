@@ -490,15 +490,14 @@ body{
     }
     .card_title h3 {
         font-size: 30px;
-        margin-top: -350px;
+        margin-top: -400px;
         height: 40px;
         padding: 15px;
-	margin-bottom: 100px;
+        margin-bottom: 100px;
     }
     .card_title p{
         font-weight: lighter;
         font-size: 15px;
-        padding-top: 40px;
         padding: 25px;
     }
 }
