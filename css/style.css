@@ -493,6 +493,7 @@ body{
         margin-top: -350px;
         height: 40px;
         padding: 15px;
+	margin-bottom: 100px;
     }
     .card_title p{
         font-weight: lighter;
